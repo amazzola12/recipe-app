@@ -1,3 +1,6 @@
+# URL
+This app is currently hosted via Firebase at: https://recipe-app-df402.web.app
+
 # Log in/Sign Up
 To use the app choose 'Sign Up' and enter an email address and password.
 A false email can be used as this is just a sample application, no verification of email addresses.
